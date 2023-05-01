@@ -1,0 +1,11 @@
+[
+  {
+    "id": 0,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba 1",
+    "price": 200,
+    "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Felegifruta.com.ar%2Fconoce-los-beneficios-la-manzana-roja%2F&psig=AOvVaw3ZoyMadHJJjv4WH659_PVq&ust=1681427965337000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCnq5y9pf4CFQAAAAAdAAAAABAE",
+    "code": "abc123",
+    "stock": 25
+  }
+]
